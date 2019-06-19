@@ -1,0 +1,30 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "STLHandler", "STLHandler\STLHandler.csproj", "{8E3414B4-C0DF-4D96-AC66-943D2C29B6CC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "testing", "testing\testing.csproj", "{1E558B8E-19CE-4C9D-AE14-AFBFD16C292D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E3414B4-C0DF-4D96-AC66-943D2C29B6CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E3414B4-C0DF-4D96-AC66-943D2C29B6CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E3414B4-C0DF-4D96-AC66-943D2C29B6CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E3414B4-C0DF-4D96-AC66-943D2C29B6CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E558B8E-19CE-4C9D-AE14-AFBFD16C292D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E558B8E-19CE-4C9D-AE14-AFBFD16C292D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E558B8E-19CE-4C9D-AE14-AFBFD16C292D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E558B8E-19CE-4C9D-AE14-AFBFD16C292D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A896BB5-7340-4280-B3BD-84976EF94311}
+	EndGlobalSection
+EndGlobal
